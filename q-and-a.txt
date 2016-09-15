@@ -1,7 +1,7 @@
 Please answer the following questions:
 
 1. What is your full name?
-Kenyeta Rubye Pino
+Kenyeta Rubye Pino.
 
 
 2. What is the username for your GitHub account?
@@ -18,7 +18,7 @@ PF Changs
 
 5. Name the last good book you read (title, author?).
 
-Cupcake Brown
+Cupcake Brown, Cupcake Brown.
 
 6. Which album/artist is in heavy rotation on your iPod/iPhone/MP3 player/stream?
 
